@@ -37,8 +37,7 @@ SmartClass is an AI-driven system designed to automate attendance tracking and m
 ```sh
 SmartClass/
 ├── backend/
-│   ├── app.py                  
-│   ├── database.py              
+│   ├── app.py                               
 │   ├── face_recognition.py      
 ├── frontend/
 │   ├── index.html               
