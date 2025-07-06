@@ -83,7 +83,14 @@ pip install -r requirements.txt
 ```sh
 python app.py
 ```
-The application will be accessible at http://127.0.0.1:5000/.
+## Running the Application
+
+After installing the dependencies and starting the server, open your web browser and go to:
+
+[http://127.0.0.1:5000/](http://127.0.0.1:5000/)
+
+By default, the application runs locally on port 5000.
+
 
 # 📄 Documentation
 For detailed documentation and user guides, please refer to the project's GitHub repository.
